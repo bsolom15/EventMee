@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventMeApp</string>
+    <string name="buttonSize">280dp</string>
+</resources>
